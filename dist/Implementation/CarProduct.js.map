@@ -1,0 +1,1 @@
+{"version":3,"file":"CarProduct.js","sourceRoot":"","sources":["../../src/Implementation/CarProduct.ts"],"names":[],"mappings":";;AAAA,oCAAiC;AAEjC,MAAM,KAAK,GAAG,IAAI,SAAG,CAAC,mDAAmD,CAAC,CAAC;AAE3E,OAAO,CAAC,GAAG,CAAC;IACV,KAAK,EAAE,KAAK,CAAC,MAAM;IACnB,KAAK,EAAE,KAAK,CAAC,MAAM;IACnB,QAAQ,EAAE,KAAK,CAAC,SAAS;IACzB,OAAO,EAAE,KAAK,CAAC,QAAQ;CACxB,CAAC,CAAC"}
